@@ -8,5 +8,8 @@
    <p>-HTML</p>
    -CSS
    
-<img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/desktop-Easy%20Shopping.png?raw=true" />
-<img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/Iphone-Easy%20Shopping.png?raw=true">
+<div align="center">
+  <img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/desktop-Easy%20Shopping.png?raw=true" height="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/Iphone-Easy%20Shopping.png?raw=true" height="280" />
+</div>
