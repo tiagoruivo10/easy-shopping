@@ -9,4 +9,4 @@
    -CSS
    
 <img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/desktop-Easy%20Shopping.png?raw=true" />
-<img src="">
+<img src="https://github.com/tiagoruivo10/easy-shopping/blob/main/img/Iphone-Easy%20Shopping.png?raw=true">
